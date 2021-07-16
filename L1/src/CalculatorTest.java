@@ -32,7 +32,7 @@ public class CalculatorTest {
 	
 	public final void testAdd() {
 		int a = 4;
-		int b = 2;
+		int b = 3; //edited
 
 		Calculator cal = new Calculator();
 		int actual = cal.add(a, b);
